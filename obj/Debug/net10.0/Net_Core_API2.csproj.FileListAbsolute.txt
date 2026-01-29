@@ -1,0 +1,11 @@
+E:\Net_Core_API2\obj\Debug\net10.0\Net_Core_API2.csproj.AssemblyReference.cache
+E:\Net_Core_API2\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Net_Core_API2\obj\Debug\net10.0\Net_Core_API2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net_Core_API2\obj\Debug\net10.0\Net_Core_API2.AssemblyInfoInputs.cache
+E:\Net_Core_API2\obj\Debug\net10.0\Net_Core_API2.AssemblyInfo.cs
+E:\Net_Core_API2\obj\Debug\net10.0\Net_Core_API2.csproj.CoreCompileInputs.cache
+E:\Net_Core_API2\obj\Debug\net10.0\Net_Core_API2.MvcApplicationPartsAssemblyInfo.cs
+E:\Net_Core_API2\obj\Debug\net10.0\Net_Core_API2.MvcApplicationPartsAssemblyInfo.cache
+E:\Net_Core_API2\obj\Debug\net10.0\Net_Core_API2.RazorAssemblyInfo.cache
+E:\Net_Core_API2\obj\Debug\net10.0\Net_Core_API2.RazorAssemblyInfo.cs
+E:\Net_Core_API2\obj\Debug\net10.0\Net_Core_API2.sourcelink.json
