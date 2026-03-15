@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Lesson6.Models;
+using Lesson6.Models.Entities;
 
 namespace Lesson6.Data
 {
@@ -11,6 +11,6 @@ namespace Lesson6.Data
 
         public DbSet<Student> Students { get; set; }
         
-        public DbSet<Product> Products { get; set; }
+    
     }
 }

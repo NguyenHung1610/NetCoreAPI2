@@ -1,16 +1,21 @@
 using Microsoft.AspNetCore.Mvc;
-
-namespace FirstWebMVC.Controllers
+using System.Text.Encodings.Web;
+namespace Lesson6.Controllers
 {
     public class DemoController : Controller
-    { 
+    {
+        // GET: /Demo/
         public IActionResult Index()
         {
-            //su dung viewbag de gui du lieu tu controller ve view
-            ViewBag.FullName = "nguyen quoc hung";
             return View();
         }
-        public IActionResult Demo()
+           [HttpPost]
+        public IActionResult Index(string FullName)
+        {
+            ViewBag.Name = "Hello " + FullName;
+            return View();
+        }
+        public IActionResult Test()
         {
             return View();
         }
