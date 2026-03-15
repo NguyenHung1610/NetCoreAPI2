@@ -1,4 +1,4 @@
-namespace Lesson6.Models;
+namespace Net_Core_API2.Models;
 
 public class ErrorViewModel
 {

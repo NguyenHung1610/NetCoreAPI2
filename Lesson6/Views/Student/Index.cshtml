@@ -1,24 +1,6 @@
-@model IEnumerable<Lesson6.Models.Student>
-<h2>Danh sách sinh viên</h2>
-
-<a href="/Student/Create">Thêm sinh viên</a>
-
-<table border="1">
-<tr>
-    <th>ID</th>
-    <th>Name</th>
-    <th>Age</th>
-    <th>Class</th>
-</tr>
-
-@foreach (var item in Model)
-{
-<tr>
-    <td>@item.Id</td>
-    <td>@item.FullName</td>
-    <td>@item.Age</td>
-    <td>@item.Class</td>
-</tr>
-}
-
-</table>
+<h2>View Index cua Student Controller: @ViewBag.ThongBao</h2>
+<form asp-action="Index" method="post">
+    <input type="text" name="StudentCode" placeholder="Nhập vào mã sinh viên" />
+    <input type="text" name="FullName" placeholder="Nhập vào họ tên" />
+    <button type="submit">Send Data</button>
+</form>

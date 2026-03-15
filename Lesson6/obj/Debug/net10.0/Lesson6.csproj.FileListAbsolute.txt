@@ -233,3 +233,7 @@ E:\Net_Core_API2\Lesson6\obj\Debug\net10.0\refint\Lesson6.dll
 E:\Net_Core_API2\Lesson6\obj\Debug\net10.0\Lesson6.pdb
 E:\Net_Core_API2\Lesson6\obj\Debug\net10.0\Lesson6.genruntimeconfig.cache
 E:\Net_Core_API2\Lesson6\obj\Debug\net10.0\ref\Lesson6.dll
+E:\Net_Core_API2\Lesson6\obj\Debug\net10.0\scopedcss\Views\Shared\Layout.cshtml.rz.scp.css
+E:\Net_Core_API2\Lesson6\obj\Debug\net10.0\scopedcss\projectbundle\Lesson6.bundle.scp.css
+E:\Net_Core_API2\Lesson6\obj\Debug\net10.0\compressed\ux9ijmtuhw-{0}-fl9lqof5qp-fl9lqof5qp.gz
+E:\Net_Core_API2\Lesson6\obj\Debug\net10.0\compressed\vfuowc52zq-{0}-fl9lqof5qp-fl9lqof5qp.gz
